@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u1926_img {
+#u5181_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:589px;
   height:540px;
 }
-#u1926 {
+#u5181 {
   border-width:0px;
   position:absolute;
   left:36px;
@@ -33,14 +33,14 @@
   height:540px;
   display:flex;
 }
-#u1926 .text {
+#u5181 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1926_text {
+#u5181_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

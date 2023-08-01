@@ -11,6 +11,8 @@
   text-transform:none;
 }
 .shape {
+  text-align:left;
+  line-height:30px;
 }
 .heading_1 {
   font-family:'Arial Normal', 'Arial', sans-serif;
@@ -56,6 +58,13 @@
 .paragraph {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
 .form_hint {
   color:#999999;
 }
@@ -70,6 +79,8 @@
 .box_2 {
 }
 .table_cell {
+}
+.menu_item {
 }
 .sticky_2 {
   text-align:left;
@@ -96,10 +107,17 @@
   color:#000000;
   text-align:left;
 }
+.list_box {
+  color:#999999;
+  text-align:left;
+}
 .checkbox {
   text-align:left;
 }
 .radio_button {
+  text-align:left;
+}
+.tree_node {
   text-align:left;
 }
 .box_3 {
@@ -122,6 +140,9 @@
 .button {
 }
 .line1 {
+}
+.link_button {
+  color:#169BD5;
 }
 .box_21 {
 }
@@ -196,5 +217,13 @@
   color:#FFFFFF;
   text-align:center;
   line-height:normal;
+}
+.box_31 {
+}
+.box_26 {
+}
+._默认样式 {
+}
+.box_32 {
 }
 textarea, select, input, button { outline: none; }
