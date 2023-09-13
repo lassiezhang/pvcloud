@@ -1,1 +1,6 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1690440827954" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4072" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><path d="M386.640017 196.405191 687.536947 487.723004c13.840827 13.408717 13.840827 35.135036 0 48.543753s-36.293132 13.408717-50.156485 0L336.483532 244.948944c-13.840827-13.408717-13.840827-35.135036 0-48.543753S372.777687 182.996474 386.640017 196.405191z" fill="#879196" p-id="4073"></path><path d="M336.483532 779.073583l300.895906-291.351603c13.863354-13.408717 36.316683-13.408717 50.156485 0 13.840827 13.408717 13.840827 35.135036 0 48.543753L386.640017 827.617336c-13.863354 13.408717-36.316683 13.408717-50.156485 0S322.642705 792.437246 336.483532 779.073583z" fill="#879196" p-id="4074"></path></svg>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="9px" height="68px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -44 -359 )">
+    <path d="M 48 361  L 48 424  " stroke-width="4" stroke="#ff5722" fill="none" />
+  </g>
+</svg>
