@@ -1144,7 +1144,7 @@
   overflow-y:hidden;
   background-image:none;
   border:none;
-  border-radius:0px;
+  border-radius:2px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -8763,7 +8763,7 @@
   border-width:1px;
   border-style:solid;
   border-color:rgba(51, 153, 255, 1);
-  border-radius:0px;
+  border-radius:4px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -8772,7 +8772,7 @@
 #u798 {
   border-width:0px;
   position:absolute;
-  left:1553px;
+  left:1501px;
   top:13px;
   width:96px;
   height:32px;
@@ -19073,7 +19073,7 @@
 #u973 {
   border-width:0px;
   position:absolute;
-  left:1641px;
+  left:1603px;
   top:242px;
   width:38px;
   height:26px;
@@ -19121,7 +19121,7 @@
 #u974 {
   border-width:0px;
   position:absolute;
-  left:1653px;
+  left:1615px;
   top:248px;
   width:13px;
   height:13px;
@@ -19176,7 +19176,7 @@
 #u976 {
   border-width:0px;
   position:absolute;
-  left:1448px;
+  left:1410px;
   top:238px;
   width:189px;
   height:34px;
@@ -19296,7 +19296,7 @@
 #u977 {
   border-width:0px;
   position:absolute;
-  left:1451px;
+  left:1413px;
   top:241px;
   width:185px;
   height:30px;
