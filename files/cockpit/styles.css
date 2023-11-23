@@ -6127,7 +6127,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:44px;
+  width:59px;
   height:29px;
   background-image:none;
   border:none;
@@ -6149,7 +6149,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:44px;
+  width:59px;
   height:29px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6169,7 +6169,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:44px;
+  width:59px;
   height:29px;
   display:flex;
   font-size:12px;
@@ -6187,7 +6187,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:44px;
+  width:59px;
   height:29px;
   background:-webkit-linear-gradient(0deg, rgba(39, 129, 217, 1) 0%, rgba(39, 129, 217, 1) 0%, rgba(34, 119, 212, 1) 100%, rgba(34, 119, 212, 1) 100%);
   background:-moz-linear-gradient(90deg, rgba(39, 129, 217, 1) 0%, rgba(39, 129, 217, 1) 0%, rgba(34, 119, 212, 1) 100%, rgba(34, 119, 212, 1) 100%);
@@ -7581,7 +7581,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:270px;
+  width:300px;
   height:34px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -7599,9 +7599,9 @@
 #u281 {
   border-width:0px;
   position:absolute;
-  left:824px;
+  left:812px;
   top:15px;
-  width:270px;
+  width:300px;
   height:34px;
   display:flex;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
